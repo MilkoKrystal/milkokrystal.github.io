@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Krystal&#39;s Space</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://milkokrystal.github.io/"/>
+  <updated>2020-01-21T20:25:54.343Z</updated>
+  <id>https://milkokrystal.github.io/</id>
+  
+  <author>
+    <name>Krystal.M.Z</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Greetings from Krystal</title>
+    <link href="https://milkokrystal.github.io/2020/01/21/Greetings-from-Krystal/"/>
+    <id>https://milkokrystal.github.io/2020/01/21/Greetings-from-Krystal/</id>
+    <published>2020-01-21T20:17:13.000Z</published>
+    <updated>2020-01-21T20:25:54.343Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello everyone! I am Krystal. </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Hello everyone! I am Krystal. &lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
